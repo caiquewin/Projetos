@@ -1,0 +1,10 @@
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe.config
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.pdb
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csprojAssemblyReference.cache
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.Form1.resources
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.Properties.Resources.resources
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.GenerateResource.cache
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.CoreCompileInputs.cache
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.exe
+C:\Users\caique\source\repos\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.pdb
